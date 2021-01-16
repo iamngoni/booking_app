@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Villa De Vumba",
+    "rating": 4.9,
+    "price": 78,
+    "image": "assets/images/villa.jpeg"
+  },
+  {
+    "name": "Banny's Apartments",
+    "rating": 5.0,
+    "price": 112,
+    "image": "assets/images/apartment.jpeg"
+  },
+  {
+    "name": "Banny's Apartments",
+    "rating": 5.0,
+    "price": 112,
+    "image": "assets/images/apartment.jpeg"
+  },
+  {
+    "name": "Banny's Apartments",
+    "rating": 5.0,
+    "price": 112,
+    "image": "assets/images/apartment.jpeg"
+  },
+  {
+    "name": "Banny's Apartments",
+    "rating": 5.0,
+    "price": 112,
+    "image": "assets/images/apartment.jpeg"
+  },
+  {
+    "name": "Banny's Apartments",
+    "rating": 5.0,
+    "price": 112,
+    "image": "assets/images/apartment.jpeg"
+  }
+]
